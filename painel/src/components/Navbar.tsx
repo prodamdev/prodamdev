@@ -1,5 +1,5 @@
 import Menu from './Menu'
-import { prodamLogo, pLogo, DesignNavLogo } from './Icons'
+import { prodamLogo, pLogo, DesignNavLogo } from './icons'
 import Logo from './Logo'
 import Link from 'next/link'
 

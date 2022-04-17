@@ -1,5 +1,5 @@
 import MenuItem from './MenuItem'
-import { LogoutIcon, HomeIcon, SettingsIcon, BellIcon } from './Icons'
+import { LogoutIcon, HomeIcon, SettingsIcon, BellIcon } from './icons'
 
 export default function Menu(props) {
 

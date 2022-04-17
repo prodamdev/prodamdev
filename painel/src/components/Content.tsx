@@ -1,4 +1,4 @@
-import { DesignLogo } from "./Icons";
+import { DesignLogo } from "./icons";
 
 export default function Content(props) {
     return (
