@@ -1,4 +1,4 @@
-
+import { DesignLogo } from "./Icons";
 
 export default function Content(props) {
     return (
@@ -11,7 +11,7 @@ export default function Content(props) {
                     <p>
                         Projeto Design Patterns
                     </p>
-                    <span className={`text-sky-300`}></span>
+                    <span className={`text-sky-300`}>{DesignLogo}</span>
                 </div>
 
 
