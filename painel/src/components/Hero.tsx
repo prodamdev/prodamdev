@@ -22,7 +22,7 @@ export default function Hero(props) {
                     <Bar level={10} name='Project Design Patterns' />
                 </div>
                 <div className={`flex w-full flex-col pl-4`}>
-                    <LinkButton url='https://templates.prodam.dev/' text='+' target='_self' className='text-amber-300 border-amber-500 hover:border-amber-300 hover:bg-gradient-to-t from-amber-500/10 to-black/0' />
+                    <LinkButton url='https://prodam.dev/projects' text='+' target='_self' className='text-amber-300 border-amber-500 hover:border-amber-300 hover:bg-gradient-to-t from-amber-500/10 to-black/0' />
                 </div>
             </div>
             <div className={`text-left text-gray-100 flex flex-col w-1/5 p-2 mt-4 rounded-lg`}>
@@ -32,8 +32,8 @@ export default function Hero(props) {
                     rounded text-gray-200`}>
                     Artigo</h3>
                 <div className={`flex w-full flex-col pl-4`}>
-                    <ArticleButton url='https://artigos.prodam.dev/lgpd_cookies' title='Cookies e LGPD' text='A importância da LGPD na construção dos banners de aceite de cookies ' target='_blank' img='/articles/lgpd.png' />
-                    <LinkButton url='https://artigos.prodam.dev/' text='+' target='_self' className='text-amber-300 border-amber-500 hover:border-amber-300 hover:bg-gradient-to-t from-amber-500/10 to-black/0' />
+                    <ArticleButton url='https://prodam.dev/articles/lgpd_cookies' title='Cookies e LGPD' text='A importância da LGPD na construção dos banners de aceite de cookies ' target='_blank' img='/articles/lgpd.png' />
+                    <LinkButton url='https://prodam.dev/articles' text='+' target='_self' className='text-amber-300 border-amber-500 hover:border-amber-300 hover:bg-gradient-to-t from-amber-500/10 to-black/0' />
                 </div>
             </div>
             <div className={`text-left text-gray-100 flex flex-col w-1/5 p-2 mt-4 rounded-lg`}>
