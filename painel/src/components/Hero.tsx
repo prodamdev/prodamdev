@@ -43,10 +43,10 @@ export default function Hero(props) {
                     rounded text-gray-200`}>
                     Templates</h3>
                 <div className={`flex w-full flex-col`}>
-                    <LinkButton url='https://templates.prodam.dev/Admin/' text='Admin' target='_blank' />
-                    <LinkButton url='https://templates.prodam.dev/Sites/' text='Sites' target='_blank' />
-                    <LinkButton url='https://templates.prodam.dev/CMS/' text='CMS' target='_blank' />
-                    <LinkButton url='https://templates.prodam.dev/Intranet/' text='Intranet' target='_blank' />
+                    <LinkButton url='https://templates.prodam.dev/admin/' text='Admin' target='_blank' />
+                    <LinkButton url='https://templates.prodam.dev/sites/' text='Sites' target='_blank' />
+                    <LinkButton url='https://templates.prodam.dev/cms/' text='CMS' target='_blank' />
+                    <LinkButton url='https://templates.prodam.dev/intranet/' text='Intranet' target='_blank' />
                     <LinkButton url='https://templates.prodam.dev/' text='+' target='_self' className='text-amber-300 border-amber-500 hover:border-amber-300 hover:bg-gradient-to-t from-amber-500/10 to-black/0' />
                 </div>
             </div>
@@ -57,10 +57,10 @@ export default function Hero(props) {
                     rounded text-gray-200`}>
                     Vue</h3>
                 <div className={`flex w-full flex-col`}>
-                    <LinkButton url='https://vue.prodam.dev/Component/Datatable' text='Datatable' target='_blank' />
-                    <LinkButton url='https://vue.prodam.dev/Project/Admin_001' text='Projeto Portfolio' target='_blank' />
-                    <LinkButton url='https://vue.prodam.dev/Component/Modal' text='Modal' target='_blank' />
-                    <LinkButton url='https://vue.prodam.dev/Component/LGPD' text='Banner LGPD' target='_blank' />
+                    <LinkButton url='https://vue.prodam.dev/component/datatable' text='Datatable' target='_blank' />
+                    <LinkButton url='https://vue.prodam.dev/project/admin_001' text='Projeto Portfolio' target='_blank' />
+                    <LinkButton url='https://vue.prodam.dev/component/modal' text='Modal' target='_blank' />
+                    <LinkButton url='https://vue.prodam.dev/component/lgpd' text='Banner LGPD' target='_blank' />
                     <LinkButton url='https://vue.prodam.dev/' text='+' target='_self' className='text-amber-300 border-amber-500 hover:border-amber-300 hover:bg-gradient-to-t from-amber-500/10 to-black/0' />
                 </div>
             </div>
@@ -71,10 +71,10 @@ export default function Hero(props) {
                     rounded text-gray-200`}>
                     Next</h3>
                 <div className={`flex w-full flex-col`}>
-                    <LinkButton url='https://next.prodam.dev/Component/Hero' text='Hero' target='_blank' />
-                    <LinkButton url='https://next.prodam.dev/Project/Hero' text='Projeto ABC' target='_blank' />
-                    <LinkButton url='https://next.prodam.dev/Component/Button' text='Button' target='_blank' />
-                    <LinkButton url='https://next.prodam.dev/Component/AppProvider' text='AppProvider' target='_blank' />
+                    <LinkButton url='https://next.prodam.dev/component/hero' text='Hero' target='_blank' />
+                    <LinkButton url='https://next.prodam.dev/project/abc' text='Projeto ABC' target='_blank' />
+                    <LinkButton url='https://next.prodam.dev/component/button' text='Button' target='_blank' />
+                    <LinkButton url='https://next.prodam.dev/component/appprovider' text='AppProvider' target='_blank' />
                     <LinkButton url='https://next.prodam.dev/' text='+' target='_self' className='text-amber-300 border-amber-500 hover:border-amber-300 hover:bg-gradient-to-t from-amber-500/10 to-black/0' />
                 </div>
             </div>
