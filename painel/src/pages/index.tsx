@@ -4,6 +4,7 @@ import useAppData from '../data/hook/UseAppData'
 import Link from 'next/link'
 import Content from '../components/Content'
 import Hero from '../components/Hero'
+import Main from '../components/Main'
 
 
 export default function Home() {
@@ -11,20 +12,24 @@ export default function Home() {
   return (
     <div className="w-full min-h-screen bg-gradient-to-r from-gray-900 to-black text-gray-200">
       <Head>
-        <title>Prodam - Projeto Design Patterns</title>
+        <title>ProdamDEV</title>
         <meta name="description" content="" />
+        <meta name="robots" content="noindex" />
+        <meta name="googlebot" content="noindex" />
+        <meta name="googlebot" content="noindex" />
+        <meta name="googlebot-news" content="nosnippet" />
         <link rel="icon" href="favicon.svg" />
         <link rel="mask-icon" href="favicon.svg" color="#000000" />
       </Head>
 
-      <main className="flex-col w-full h-full items-stretch justify-center">
+      <Main type="1">
         <Navbar title="Projeto Design Patterns" src="" />
-        <Content>
+        <Content firstline="Bem vindo ao" pagetitle="Projeto ProdamDEV">
           <div className={`flex flex-col`}>
             <Hero />
           </div>
         </Content>
-      </main>
+      </Main>
 
     </div>
   )

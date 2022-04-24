@@ -34,7 +34,7 @@ export default function ArticleButton(props) {
                 ${props.className}
                 `}>
             <div className={`
-                flex w-full h-[93px] mb-2 rounded-md overflow-hidden
+                flex w-full h-28 mb-2 rounded-md overflow-hidden
                 `}>
                 <Link href={props.url} passHref>
                     <a className={`

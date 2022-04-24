@@ -17,9 +17,9 @@ export default function Admin() {
                 <link rel="mask-icon" href="favicon.svg" color="#000000" />
             </Head>
 
-            <main className="flex-col w-full h-full items-stretch justify-center">
+            <main className="flex flex-col w-full h-full items-stretch justify-center">
                 <Navbar title="Projeto Design Patterns" src="" />
-                <Content>
+                <Content firstline="Bem vindo ao" pagetitle="Projeto Design Patterns">
                     <div className={`flex flex-col`}>
                         <Hero />
                     </div>
