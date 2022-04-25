@@ -34,13 +34,13 @@ export default function TellMeMore() {
                       <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-200 sm:text-4xl">
                         Percepção de desafios
                       </p>
-                      <p className="mt-4 max-w-2xl text-xl text-gray-200">
+                      <p className="mt-4 text-gray-200">
                         A PRODAM possui como objetivo principal o desenvolvimento de software, em diversas linguagens e plataformas, com diferentes tipos de profissionais e áreas de atuação, como Banco de Dados, Análise de Dados, Desenvolvimento de Sistemas, Web, Mobile, Frontend, Backend, Infraestrutura de TI, etc. Entretanto não percebo uma área comum para os desenvolvedores, para que possam buscar soluções internas, colaboração, troca de conhecimento, cooperação, aplicar propostas, acompanhar projetos, etc.
                       </p>
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -55,7 +55,7 @@ export default function TellMeMore() {
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -70,7 +70,7 @@ export default function TellMeMore() {
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -114,13 +114,13 @@ export default function TellMeMore() {
                       <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-200 sm:text-4xl">
                         Objetivo
                       </p>
-                      <p className="mt-4 max-w-2xl text-xl text-gray-200">
+                      <p className="mt-4 text-gray-200">
                         O projeto tem como objetivo resolver ou mitigar essas percepções, propondo algumas soluções em evolução.
                       </p>
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -135,7 +135,7 @@ export default function TellMeMore() {
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -150,7 +150,7 @@ export default function TellMeMore() {
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -194,13 +194,13 @@ export default function TellMeMore() {
                       <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-200 sm:text-4xl">
                         Conceito
                       </p>
-                      <p className="mt-4 max-w-2xl text-xl text-gray-200">
+                      <p className="mt-4 text-gray-200">
                         Proporcionar um ambiente para os desenvolvedores aprimorarem suas habilidades, obter novas perspectivas e soluções, além de aprimorar a qualidade do produto final.
                       </p>
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -215,7 +215,7 @@ export default function TellMeMore() {
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -230,7 +230,7 @@ export default function TellMeMore() {
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -274,13 +274,13 @@ export default function TellMeMore() {
                       <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-200 sm:text-4xl">
                         Protótipo
                       </p>
-                      <p className="mt-4 max-w-2xl text-xl text-gray-200">
+                      <p className="mt-4 text-gray-200">
                         Esse protótipo apresenta alguns desses conceitos aplicados. Acessando https://prodam.dev permitirá entrar nesse site e até mesmo nessa apresentação, disponível na seção Artigo.
                       </p>
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -308,13 +308,13 @@ export default function TellMeMore() {
                       <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-200 sm:text-4xl">
                         Módulos
                       </p>
-                      <p className="mt-4 max-w-2xl text-xl text-gray-200">
+                      <p className="mt-4 text-gray-200">
                         O projeto possui alguns módulos básicos de seu conceito.
                       </p>
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -329,7 +329,7 @@ export default function TellMeMore() {
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -344,7 +344,7 @@ export default function TellMeMore() {
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -359,7 +359,7 @@ export default function TellMeMore() {
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -387,13 +387,13 @@ export default function TellMeMore() {
                       <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-200 sm:text-4xl">
                         Templates
                       </p>
-                      <p className="mt-4 max-w-2xl text-xl text-gray-200">
+                      <p className="mt-4 text-gray-200">
                         É uma ferramenta para melhorar senso crítico, acelerar os projetos, aumentar a produtividade e aumentar a qualidade, e de persuasão.
                       </p>
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -423,13 +423,13 @@ export default function TellMeMore() {
                       <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-200 sm:text-4xl">
                         Componentes
                       </p>
-                      <p className="mt-4 max-w-2xl text-xl text-gray-200">
+                      <p className="mt-4 text-gray-200">
                         Blocos de construção de qualquer projetos, de uso recorrente ou não, prontos para uso.
                       </p>
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -459,13 +459,13 @@ export default function TellMeMore() {
                       <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-200 sm:text-4xl">
                         Projetos
                       </p>
-                      <p className="mt-4 max-w-2xl text-xl text-gray-200">
+                      <p className="mt-4 text-gray-200">
                         Três conceitos sobre projetos, sua componentização, sua documentação e seu acompanhamento.
                       </p>
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -480,7 +480,7 @@ export default function TellMeMore() {
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -495,7 +495,7 @@ export default function TellMeMore() {
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -523,13 +523,13 @@ export default function TellMeMore() {
                       <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-200 sm:text-4xl">
                         Artigos
                       </p>
-                      <p className="mt-4 max-w-2xl text-xl text-gray-200">
+                      <p className="mt-4 text-gray-200">
                         Para quem lê é uma reflexão, para quem escreve é compartilhar.
                       </p>
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -557,14 +557,14 @@ export default function TellMeMore() {
                       <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-200 sm:text-4xl">
                         Futuro e o que falta
                       </p>
-                      <p className="mt-4 max-w-2xl text-xl text-gray-200">
+                      <p className="mt-4 text-gray-200">
                         Por ser uma ideia em evolução, e acreditando no conceito de cocriação, novas funcionalidades ou melhores nas existentes podem surgir. Há também a necessidade de aplicar outras funções de CMS, como gerir o compartilhamento externo, quais ambientes utilizar, quais ferramentas utilizar, entre outras discussões necessárias.
 
                       </p>
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -579,7 +579,7 @@ export default function TellMeMore() {
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -594,7 +594,7 @@ export default function TellMeMore() {
                     </div>
 
                     <div className="mt-10">
-                      <div className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                      <div className="space-y-10 md:space-y-0  md:gap-y-10">
 
                         <div className="relative">
                           <div>
@@ -622,7 +622,7 @@ export default function TellMeMore() {
                       <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-200 sm:text-4xl">
                         Conclusão
                       </p>
-                      <p className="mt-4 max-w-2xl text-xl text-gray-200">
+                      <p className="mt-4 text-gray-200">
                         Da mesma forma que existe a preocupação com assuntos laterais na Prodam, como o Portal, RH, Convênio, DIPAR, etc, os desenvolvedores precisam de atenção, pela falta deles nos projetos, para a valorização dos interessados, para novos projetos e para o futuro da própria empresa.
                       </p>
                     </div>
