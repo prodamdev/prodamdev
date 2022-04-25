@@ -32,7 +32,7 @@ export default function Hero(props) {
                     rounded text-gray-200`}>
                     Artigo</h3>
                 <div className={`flex w-full flex-col pl-4`}>
-                    <ArticleButton url='/' title='Apresentando' text='' target='_blank' img='/articles/tellmemore.png' />
+                    <ArticleButton url='/tellmemore' title='Apresentando' text='' target='_blank' img='/articles/tellmemore.png' />
                     <LinkButton url='/articles/' text='+' target='_self' className='text-amber-300 border-amber-500 hover:border-amber-300 hover:bg-gradient-to-t from-amber-500/10 to-black/0' />
                 </div>
             </div>
