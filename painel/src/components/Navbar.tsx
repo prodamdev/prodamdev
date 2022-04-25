@@ -37,7 +37,7 @@ export default function Navbar(props) {
                     </Link>
                 </div>
                 <div className={`flex shrink justify-start items-center text-gray-300 px-4`}>
-                    <h1 className={`text-2xl text-semibold text-gray-300`}>
+                    <h1 className={`text-xl text-semibold text-gray-300`}>
                         {props.title}<span className={`text-2xl text-sky-300`}>{DevNavLogo}</span>
                     </h1>
 
