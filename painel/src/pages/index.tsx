@@ -23,7 +23,7 @@ export default function Home() {
       </Head>
 
       <Main type="1">
-        <Navbar title="Projeto Design Patterns" src="" />
+        <Navbar title="Projeto ProdamDEV" src="" />
         <Content firstline="Bem vindo ao" pagetitle="Projeto ProdamDEV">
           <div className={`flex flex-col`}>
             <Hero />

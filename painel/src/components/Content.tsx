@@ -1,4 +1,4 @@
-import { DesignLogo, Design2Logo } from "./icons";
+import { DesignLogo, Design2Logo, DevNavLogo, DevLogo, Dev2Logo } from "./icons";
 
 export default function Content(props) {
 
@@ -13,7 +13,7 @@ export default function Content(props) {
                         <p>
                             {props.pagetitle}
                         </p>
-                        <span className={`text-sky-300`}>{DesignLogo}</span>
+                        <span className={`text-sky-300`}>{DevLogo}</span>
                     </div>
                 </div>
                 {props.children}
@@ -28,7 +28,7 @@ export default function Content(props) {
                             {props.firstline}
                         </p>
                         <p className={``}>
-                            {props.pagetitle} <span className={`text-sky-300 text-xl`}>{Design2Logo}</span>
+                            {props.pagetitle} <span className={`text-sky-300 text-xl`}>{Dev2Logo}</span>
                         </p>
 
                     </div>
@@ -47,7 +47,7 @@ export default function Content(props) {
                         <p>
                             {props.pagetitle}
                         </p>
-                        <span className={`text-sky-300`}>{DesignLogo}</span>
+                        <span className={`text-sky-300`}>{DevLogo}</span>
                     </div>
                 </div>
                 {props.children}

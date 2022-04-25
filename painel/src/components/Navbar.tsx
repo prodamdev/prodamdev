@@ -1,5 +1,5 @@
 import Menu from './Menu'
-import { prodamLogo, pLogo, DesignNavLogo } from './icons'
+import { prodamLogo, pLogo, DesignNavLogo, DevNavLogo, DevLogo, Dev2Logo } from './icons'
 import Logo from './Logo'
 import Link from 'next/link'
 
@@ -19,7 +19,7 @@ export default function Navbar(props) {
                     <h1 className={`text-2xl text-semibold text-gray-300`}>
                         {props.title}
                     </h1>
-                    <span className={`text-2xl text-sky-300`}>{DesignNavLogo}</span>
+                    <span className={`text-2xl text-sky-300`}>{DevNavLogo}</span>
                     <h2 className={`text-base text-slate-300`}>{props.subtitle}</h2>
                 </div>
 
@@ -38,7 +38,7 @@ export default function Navbar(props) {
                 </div>
                 <div className={`flex shrink justify-start items-center text-gray-300 px-4`}>
                     <h1 className={`text-2xl text-semibold text-gray-300`}>
-                        {props.title}<span className={`text-2xl text-sky-300`}>{DesignNavLogo}</span>
+                        {props.title}<span className={`text-2xl text-sky-300`}>{DevNavLogo}</span>
                     </h1>
 
                     <h2 className={`text-base text-slate-300`}>{props.subtitle}</h2>
@@ -61,7 +61,7 @@ export default function Navbar(props) {
                     <h1 className={`text-2xl text-semibold text-gray-300`}>
                         {props.title}
                     </h1>
-                    <span className={`text-2xl text-sky-300`}>{DesignNavLogo}</span>
+                    <span className={`text-2xl text-sky-300`}>{DevNavLogo}</span>
                     <h2 className={`text-base text-slate-300`}>{props.subtitle}</h2>
                 </div>
 
