@@ -26,9 +26,7 @@ export default function Home() {
         <Navbar title="Projeto ProdamDEV" src="" />
         <Content firstline="Bem vindo ao" pagetitle="Projeto ProdamDEV">
           <div className={`flex flex-col`}>
-            <div>
-              <grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
-            </div>
+           
             <Hero />
           </div>
         </Content>
